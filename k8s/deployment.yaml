@@ -1,0 +1,19 @@
+﻿apiVersion: apps/v1 
+kind: Deployment
+metadata:
+  name: barinbar-deployment
+spec:
+  selector:
+    matchLabels:
+      app: barinbar
+  replicas: 2
+  template:
+    metadata:
+      labels:
+        app: barinbar
+    spec:
+      containers:
+      - name: barinbar
+        image: emmanuel84/barinbar:2.0
+        ports:
+        - containerPort: 80

@@ -1,0 +1,7 @@
+C:\Users\hugot\Documents\Puc Minas\Pós Graduação\Arquitetura de Software Distribuído\src\Barinbar.API\obj\Debug\net5.0\Barinbar.API.csprojAssemblyReference.cache
+C:\Users\hugot\Documents\Puc Minas\Pós Graduação\Arquitetura de Software Distribuído\src\Barinbar.API\obj\Debug\net5.0\Barinbar.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugot\Documents\Puc Minas\Pós Graduação\Arquitetura de Software Distribuído\src\Barinbar.API\obj\Debug\net5.0\Barinbar.API.AssemblyInfoInputs.cache
+C:\Users\hugot\Documents\Puc Minas\Pós Graduação\Arquitetura de Software Distribuído\src\Barinbar.API\obj\Debug\net5.0\Barinbar.API.AssemblyInfo.cs
+C:\Users\hugot\Documents\Puc Minas\Pós Graduação\Arquitetura de Software Distribuído\src\Barinbar.API\obj\Debug\net5.0\Barinbar.API.csproj.CoreCompileInputs.cache
+C:\Users\hugot\Documents\Puc Minas\Pós Graduação\Arquitetura de Software Distribuído\src\Barinbar.API\obj\Debug\net5.0\Barinbar.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hugot\Documents\Puc Minas\Pós Graduação\Arquitetura de Software Distribuído\src\Barinbar.API\obj\Debug\net5.0\Barinbar.API.MvcApplicationPartsAssemblyInfo.cache
